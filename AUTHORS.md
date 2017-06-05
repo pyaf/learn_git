@@ -1,1 +1,1 @@
-* [Rishabh Agrahari](https://github.com/rishabhiitbhu) 
+* Rishabh Agrahari [rishabhiitbhu](https://github.com/rishabhiitbhu) 
