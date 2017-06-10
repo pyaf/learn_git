@@ -1,6 +1,6 @@
 * Ayushman Singh [Auhan99](https://github.com/Auhan99)
+* Praveen Dabral  [dragneel12](https://github.com/dragneel12)
 * Rachit Shah [rachitiitbhu](https://github.com/rachitiitbhu)
 * Rishabh Agrahari [rishabhiitbhu](https://github.com/rishabhiitbhu) 
 * Sai Natha Reddy Buchupalli [sainatha-798](https://github.com/sainatha-798)
 * Utkarsh Sinha [Utkarsh2524992](https://github.com/Utkarsh2524992)
-* Praveen Dabral  [dragneel12](https://github.com/dragneel12)
