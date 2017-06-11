@@ -1,6 +1,7 @@
 * Ayushman Singh [Auhan99](https://github.com/Auhan99)
 * Mukesh Deogune [mdeogune](https://github.com/mdeogune)
 * Prashant Kumar Tiwary [Prashant07121998](https://github.com/Prashant07121998)
+* Pratikshit Singh [PratikshitSingh](https://github.com/PratikshitSingh)
 * Praveen Dabral  [dragneel12](https://github.com/dragneel12)
 * Rachit Shah [rachitiitbhu](https://github.com/rachitiitbhu)
 * Rishabh Agrahari [rishabhiitbhu](https://github.com/rishabhiitbhu) 
