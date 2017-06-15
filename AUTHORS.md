@@ -1,5 +1,5 @@
 * Ayushman Singh [Auhan99](https://github.com/Auhan99)
-* Prince Rajput [Princerajput](https://github.com/princerajput)
+* Prince kumar singh [Princerajput](https://github.com/princerajput)
 * Rachit Shah [rachitiitbhu](https://github.com/rachitiitbhu)
 * Rishabh Agrahari [rishabhiitbhu](https://github.com/rishabhiitbhu) 
 * Sai Natha Reddy Buchupalli [sainatha-798](https://github.com/sainatha-798)
