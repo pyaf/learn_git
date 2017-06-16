@@ -3,6 +3,7 @@
 * Prashant Kumar Tiwary [Prashant07121998](https://github.com/Prashant07121998)
 * Pratikshit Singh [PratikshitSingh](https://github.com/PratikshitSingh)
 * Praveen Dabral  [dragneel12](https://github.com/dragneel12)
+* Prince Kumar Singh [princerajput](https://github.com/princerajput) 
 * Rachit Shah [rachitiitbhu](https://github.com/rachitiitbhu)
 * Rishabh Agrahari [rishabhiitbhu](https://github.com/rishabhiitbhu) 
 * Sai Natha Reddy Buchupalli [sainatha-798](https://github.com/sainatha-798)
