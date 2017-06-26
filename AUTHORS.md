@@ -1,6 +1,7 @@
 * Akanksha Prasad [Akanksha-Prasad](https://github.com/Akanksha-Prasad)
 * Anoushka Pal [AnoushkaPal](https://github.com/AnoushkaPal)
 * Ayushman Singh [Auhan99](https://github.com/Auhan99)
+* Bhavesh Pancholi [bhavesh1998](https://github.com/bhavesh1998)
 * Mukesh Deogune [mdeogune](https://github.com/mdeogune)
 * Prashant Kumar Tiwary [Prashant07121998](https://github.com/Prashant07121998)
 * Pratikshit Singh [PratikshitSingh](https://github.com/PratikshitSingh)
@@ -11,4 +12,3 @@
 * Sai Natha Reddy Buchupalli [sainatha-798](https://github.com/sainatha-798)
 * Sambhav Jain [sambhavJain066](http://github.com/sambhavJain066)
 * Utkarsh Sinha [Utkarsh2524992](https://github.com/Utkarsh2524992)
-* Bhavesh Pancholi [bhavesh1998](https://github.com/bhavesh1998)
