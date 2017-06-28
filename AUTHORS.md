@@ -12,4 +12,4 @@
 * Sambhav Jain [sambhavJain066](http://github.com/sambhavJain066)
 * Utkarsh Sinha [Utkarsh2524992](https://github.com/Utkarsh2524992)
 * K Navatej [Navatej-GRID](https://github.com/Navatej-GRID)
-* Pankaj [Navatej-GRID](https://github.com/Navatej-GRID)
+
