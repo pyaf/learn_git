@@ -2,6 +2,7 @@
 * Anoushka Pal [AnoushkaPal](https://github.com/AnoushkaPal)
 * Ayushman Singh [Auhan99](https://github.com/Auhan99)
 * Bhavesh Pancholi [bhavesh1998](https://github.com/bhavesh1998)
+* K Navatej [Navatej-GRID](https://github.com/Navatej-GRID)
 * Mukesh Deogune [mdeogune](https://github.com/mdeogune)
 * Prashant Kumar Tiwary [Prashant07121998](https://github.com/Prashant07121998)
 * Pratikshit Singh [PratikshitSingh](https://github.com/PratikshitSingh)
