@@ -1,0 +1,273 @@
+#divtag {
+	background-color: 003366;
+	color: white;
+	font: 35px bold arial;
+        padding-top: 10px;
+}
+
+#logo {
+        padding-top: 150px;
+}
+
+.logo_name {
+        font: 60px bold georgia;
+        color: 003366;
+        margin-top: -18px;
+}
+
+.logo_line {
+        font: 36px bold san-sarif;
+        color: black;
+        margin-top: -18px;
+}
+
+#indicators {
+        background-color: 003366;
+}
+
+#index_login_signup {
+        padding-top: 200px;
+}
+
+
+#index_login {
+        color: white;
+	font-size : 35px;
+	background-color: rgb(30,30,50);
+	height: 85px;
+	width: 900px;
+	border: none;
+}
+
+#index_login:hover {
+	background-color: rgb(80,80,80);
+}
+
+#index_signup {
+        margin-top: -20px;
+        color: white;
+	font-size : 35px;
+	background-color: rgb(30,30,50);
+	height: 85px;
+	width: 900px;
+	border: none;
+}
+
+#index_signup:hover {
+	background-color: rgb(80,80,80);
+}
+
+.skip {
+        text-decoration: none;
+        font: 30px san-sarif;
+        margin-top: 15px;
+}
+
+a#skip:visited {
+        color: black;
+	text-decoration: none;
+}
+
+a#skip:hover {
+        color: blue;
+	text-decoration: none;
+}
+
+
+
+
+
+
+#head_login {
+        background-color: rgb(100,150,10);
+	color: black;
+	font: 40px bold arial;
+        height: 115px;
+        width: 980px;
+        padding-top: 30px;
+}
+
+#login_arrow {
+        margin-top: -95px;
+        margin-left: 25px;
+}
+
+a.login_arrow {
+        color: black;
+        font-size: 70px;
+}
+
+a.login_arrow:hover {
+        color: black;
+}
+
+input[type=text], input[type=password] {
+        width: 950px;
+	padding: 12px 20px;
+        display: inline-block;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+	color: black;
+        height: 70px;
+        margin-top: 2px;
+        margin-left: 15px;
+        font-size: 30px;
+}
+
+input[type=checkbox] {
+        height: 40px;
+        width: 68px;
+	margin-top: 2px;
+        display: inline-block;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+	color: black;
+}
+
+#loginbtn {
+        color: white;
+	font-size : 35px;
+	background-color: rgb(30,30,50);
+	height: 85px;
+	width: 930px;
+	border: none;
+}
+
+#loginbtn:hover {
+	background-color: rgb(80,80,80);
+}
+
+#loginpageline1 {
+        font: 25px san-sarif;
+}
+
+a#forgot_password {
+        text-decoration: none;
+        color: rgb(100,150,10);
+}
+
+a#forgot_password:hover {
+        color: rgb(120,120,120);
+}
+
+a#loginpage_signup {
+        text-decoration: none;
+        color: rgb(100,150,10);
+}
+
+a#loginpage_signup:hover {
+        color: rgb(120,120,120);
+}
+
+#loginpageline2 {
+        font: 25px san-sarif;
+}
+
+a#terms {
+        text-decoration: none;
+        color: rgb(10,100,50);
+}
+
+a#terms:hover {
+        color: rgb(120,120,120);
+}
+
+a#privacy {
+        text-decoration: none;
+        color: rgb(10,100,50);
+}
+
+a#privacy:hover {
+        color: rgb(120,120,120);
+}
+
+
+
+
+
+
+
+#head_signup {
+        background-color: rgb(100,150,10);
+	color: black;
+	font: 40px bold arial;
+        height: 115px;
+        width: 980px;
+        padding-top: 30px;
+}
+
+#signup_arrow {
+        margin-top: -95px;
+        margin-left: 25px;
+}
+
+a.signup_arrow {
+        color: black;
+        font-size: 70px;
+}
+
+a.signup_arrow:hover {
+        color: black;
+}
+
+input[type=text], input[type=password] {
+        width: 950px;
+	padding: 12px 20px;
+        display: inline-block;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+	color: black;
+        height: 70px;
+        margin-top: 2px;
+        margin-left: 15px;
+        font-size: 30px;
+}
+
+#signupbtn {
+        color: white;
+	font-size : 35px;
+	background-color: rgb(30,30,50);
+	height: 85px;
+	width: 930px;
+	border: none;
+}
+
+#signupbtn:hover {
+	background-color: rgb(80,80,80);
+}
+
+#signuppageline1 {
+        font: 25px san-sarif;
+}
+
+a#signuppage_signup {
+        text-decoration: none;
+        color: rgb(100,150,10);
+}
+
+a#signuppage_signup:hover {
+        color: rgb(120,120,120);
+}
+
+#signuppageline2 {
+        font: 25px san-sarif;
+}
+
+a#terms {
+        text-decoration: none;
+        color: rgb(10,100,50);
+}
+
+a#terms:hover {
+        color: rgb(120,120,120);
+}
+
+a#privacy {
+        text-decoration: none;
+        color: rgb(10,100,50);
+}
+
+a#privacy:hover {
+        color: rgb(120,120,120);
+}
+
