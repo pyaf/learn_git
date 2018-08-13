@@ -1,6 +1,5 @@
 * Akanksha Prasad [Akanksha-Prasad](https://github.com/Akanksha-Prasad)
 * Anoushka Pal [AnoushkaPal](https://github.com/AnoushkaPal)
-* Anuj Agrawal [Anuj-IITBHU](htps://github.com/Anuj-IITBHU)
 * Ayushman Singh [Auhan99](https://github.com/Auhan99)
 * Bhavesh Pancholi [bhavesh1998](https://github.com/bhavesh1998)
 * K Navatej [Navatej-GRID](https://github.com/Navatej-GRID)
