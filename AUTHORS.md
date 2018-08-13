@@ -6,6 +6,7 @@
 * Boganvilia [boganvilia](http://github.com/boganvilia)
 * K Navatej [Navatej-GRID](https://github.com/Navatej-GRID)
 * Mukesh Deogune [mdeogune](https://github.com/mdeogune)
+* Nitin Mahawar[nitiniit](https://github.com/nitiniit)
 * Neeraj Kumar Chanderiya [are-we-groot](https://github.com/are-we-groot)
 * Prashant Kumar Tiwary [Prashant07121998](https://github.com/Prashant07121998)
 * Pratikshit Singh [PratikshitSingh](https://github.com/PratikshitSingh)
