@@ -4,6 +4,7 @@
 * Bhavesh Pancholi [bhavesh1998](https://github.com/bhavesh1998)
 * K Navatej [Navatej-GRID](https://github.com/Navatej-GRID)
 * Mukesh Deogune [mdeogune](https://github.com/mdeogune)
+* Nitin Mahawar[nitiniit](https://github.com/nitiniit)
 * Prashant Kumar Tiwary [Prashant07121998](https://github.com/Prashant07121998)
 * Pratikshit Singh [PratikshitSingh](https://github.com/PratikshitSingh)
 * Praveen Dabral  [dragneel12](https://github.com/dragneel12)
