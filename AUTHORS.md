@@ -16,4 +16,5 @@
 * Rishabh Agrahari [rishabhiitbhu](https://github.com/rishabhiitbhu) 
 * Sai Natha Reddy Buchupalli [sainatha-798](https://github.com/sainatha-798)
 * Sambhav Jain [sambhavJain066](http://github.com/sambhavJain066)
+* Srimukha Paturi [sm-iitbhu](https://github.com/sm-iitbhu)
 * Utkarsh Sinha [Utkarsh2524992](https://github.com/Utkarsh2524992)
